@@ -1,0 +1,12 @@
+.app-container {
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	background: #fffdf6;
+	min-height: 100vh;
+	padding: 30px;
+}
+
+h1 {
+	color: #2b3a55;
+	margin-bottom: 20px;
+}

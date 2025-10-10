@@ -1,0 +1,12 @@
+.recipe-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 15px;
+	margin-top: 20px;
+}
+
+.no-recipes {
+	color: #888;
+	font-style: italic;
+}
