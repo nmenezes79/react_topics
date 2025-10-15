@@ -1,0 +1,13 @@
+blood-donation-camp
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+src/
+ ├── components/
+ │    ├── Navbar.js
+ │    ├── Home.js
+ │    ├── About.js
+ │    └── Registration.js
+ ├── App.js
+ ├── index.js
+ └── index.css
